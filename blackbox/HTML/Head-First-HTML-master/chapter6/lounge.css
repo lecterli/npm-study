@@ -1,0 +1,15 @@
+p{color:maroon;
+font-family:sans-serif;}
+h1{font-family:sans-serif;
+color:gray;
+border-bottom:1px solid black;}
+h2{font-family:sans-serif;
+color:gray;
+}
+body{font-family:sans-serif;}
+
+em{font-family:serif;}
+
+p.greentea{
+color:green;
+}
